@@ -57,3 +57,12 @@ pip install -r requirements.txt
 ```
 
 ### 4. Lancer l'app
+
+---
+
+## 🙏 Remerciements & inspiration
+
+Ce projet s'inspire fortement du style et de l'organisation du dashboard [Streaming Metrics](https://github.com/cmd-ntrf/streaming-metrics), que j'ai adapté à un autre jeu de données et à un contexte clinique.
+
+Merci à son auteur pour la qualité du code et du design.
+
