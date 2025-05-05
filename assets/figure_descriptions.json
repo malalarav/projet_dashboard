@@ -1,0 +1,7 @@
+{
+    "duration": "Durée moyenne des traitements par nombre de dents.",
+    "interruptions": "Impact des interruptions sur la satisfaction patient.",
+    "errors": "Impact des erreurs système sur la satisfaction.",
+    "correlation": "Corrélations entre les variables mesurées.",
+    "relation-detail": "Exploration ciblée entre deux variables."
+}

@@ -1,0 +1,50 @@
+
+* {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica', 'Arial', sans-serif;
+}
+
+/* Couleur de fond de la page */
+body, #page {
+    background-color: rgb(244, 244, 244);
+    margin: 0;
+    padding: 0;
+}
+
+/* Alignement centré pour les titres */
+h1, h2, h3 {
+    text-align: center;
+}
+
+.section {
+    background-color: white;
+    border-radius: 10px;
+    padding: 30px 40px;
+    margin: 30px auto;
+    max-width: 1400px;
+    box-shadow: 0 2px 12px rgba(0,0,0,0.05);
+}
+
+.card {
+    border-radius: 10px;
+    padding: 15px;
+    box-shadow: 0 1px 4px rgba(0,0,0,0.05);
+}
+
+
+/* Graphes à taille harmonisée */
+.figure-card {
+    height: 520px;
+}
+
+.dashboard-row {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+/* Responsive : police réduite sur mobile */
+@media (max-width: 480px) {
+    h1 {
+        font-size: 1.4rem;
+    }
+}
