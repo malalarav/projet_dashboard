@@ -1,0 +1,26 @@
+# Ignorer l'environnement virtuel
+venv/
+env/
+
+# Fichiers Python compilés
+__pycache__/
+*.pyc
+
+# Notebooks temporaires
+.ipynb_checkpoints/
+
+# Fichiers système / éditeur
+.DS_Store
+Thumbs.db
+
+# VS Code settings
+.vscode/
+
+# Logs et cache
+*.log
+.cache/
+*.sqlite3
+
+# Fichiers secrets (si jamais)
+.env
+*.env
